@@ -6,8 +6,6 @@ Aplicação web para análise de redes de colaboração científica usando dados
 
 Este projeto analisa uma rede onde os nós são autores e as arestas representam colaborações (co-autorias). Os dados cobrem o período de 1992-2003.
 
-**Link da aplicação**: [Inserir link aqui]
-
 ## Funcionalidades
 
 ### Visualização da Rede
@@ -38,8 +36,8 @@ Este projeto analisa uma rede onde os nós são autores e as arestas representam
 
 1. Clone o repositório
 ```bash
-git clone [seu-repo]
-cd [nome-pasta]
+git clone https://github.com/devHebertfst/Streamlit-analiseDeRedes
+cd StreamLit-analiseRedes
 ```
 
 2. Instale as dependências
@@ -81,7 +79,3 @@ projeto/
 ├── README.md
 └── ca-AstroPh.txt
 ```
-
-## Autor
-
-Hebert França

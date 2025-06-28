@@ -46,7 +46,7 @@ Este dataset representa uma rede de colaboração científica onde:
 @st.cache_data
 def load_arxiv_data():
     """Carrega dados do arquivo ca-AstroPh.txt"""
-    filename = "ca-AstroPh.txt"
+    filename = "CA-AstroPh.txt"
     try:
         if not os.path.exists(filename):
             st.error(f"Arquivo {filename} não encontrado na raiz do projeto.")
