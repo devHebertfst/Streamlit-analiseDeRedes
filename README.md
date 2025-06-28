@@ -79,3 +79,5 @@ projeto/
 ├── README.md
 └── ca-AstroPh.txt
 ```
+## Link streamlit
+https://ms3pap8cpeirutwqulyd6a.streamlit.app/
