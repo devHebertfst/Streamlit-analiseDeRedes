@@ -62,6 +62,7 @@ streamlit run app.py
 - pyvis
 - matplotlib
 - seaborn
+- scipy
 
 ## Dataset
 
